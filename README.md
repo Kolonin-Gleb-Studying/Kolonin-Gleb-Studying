@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Kolonin-Gleb-Studying
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, My name is Gleb Kolonin
+#### IT Club founder and ambitious student
+I develop technologies at all costs to build better today.
+I organize teamwork and work hard in order to boost existing technologies and create new ones.
+I am a founder of IT Club https://kolonin-gleb.github.io/IT-Club/
+I am interested in Programming, Physics and Investing.
 
-<!---
-Kolonin-Gleb-Studying/Kolonin-Gleb-Studying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Skills: Python / C++ / SQL / Machine Learning / Web
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
